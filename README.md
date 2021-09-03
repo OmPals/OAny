@@ -7,7 +7,7 @@
 - Clone the project
 - Create a .env file in root folder of the project
 - Add the following variables: 
-     - MONGO_URI=mongodb://localhost:27017/oany
+     - MONGO_URI=your-mongo-db-connection-string
      - PORT=3000 
      - PRIVATE=type-random-string-with-alphanumeric-characters-and-more-than-32-chars
 - If you don't have mongodb installed, do install it from here: https://www.mongodb.com/try/download/community
