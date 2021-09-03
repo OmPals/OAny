@@ -9,7 +9,7 @@
 - Add the following variables: 
      - MONGO_URI=mongodb://localhost:27017/oany
      - PORT=3000 
-     - PRIVATE=type-random-string-with-alphanumeric-characters-and-32-chars
+     - PRIVATE=type-random-string-with-alphanumeric-characters-and-more-than-32-chars
 - If you don't have mongodb installed, do install it from here: https://www.mongodb.com/try/download/community
 - run `npm i` to install all the dependencies
 - run `npm start` to start the application
