@@ -1,6 +1,9 @@
 # OAny
 
-- There are many use cases when people need to get something urgently, without wanting to do things themselves - like getting vegetables from the local market to forgetting your laptop charger at home. Starbucks doesn’t deliver, but wouldn't it be nice if someone could grab your fav drink from there!
+- E-commerce backend
+    - Built a REST API in Node.JS and used MongoDB
+    - Implemented CRUD on Orders entity
+
 
 ## How to use
 
